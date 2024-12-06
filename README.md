@@ -16,8 +16,9 @@ Un clásico juego de la serpiente desarrollado en Python usando la librería tur
 ## 📦 Instalación
 1. Clona este repositorio:
    git clone https://github.com/pabloesteban2712/Snake-Game
-   cd snake-game
-2. Asegúrate de tener Python 3.x instalado.
 
-3. Ejecuta el juego:
+   cd snake-game
+3. Asegúrate de tener Python 3.x instalado.
+
+4. Ejecuta el juego:
    python main.py
