@@ -22,3 +22,7 @@ Un clásico juego de la serpiente desarrollado en Python usando la librería tur
 
 4. Ejecuta el juego:
    python main.py
+
+
+
+   
